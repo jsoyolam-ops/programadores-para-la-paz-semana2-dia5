@@ -1,0 +1,5 @@
+Pregunta 4 — Reflexión de la semana
+En un texto de 8 a 10 líneas, responde:
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+
+El uso responsable de la información en internet implica verificar fuentes, respetar derechos de autor y compartir contenido de manera ética. Esto se relaciona con la participación ciudadana, ya que una sociedad bien informada puede tomar mejores decisiones, opinar con fundamento y contribuir de forma constructiva en espacios digitales. A su vez, herramientas como Git permiten organizar el trabajo técnico de manera colaborativa, registrando cambios y promoviendo la transparencia. Esta organización fomenta la responsabilidad, ya que cada aporte queda documentado. Así, tanto en la ciudadanía digital como en el desarrollo técnico, es clave actuar con ética, colaborar con otros y asumir las consecuencias de lo que se comparte o construye. En conjunto, estos elementos fortalecen comunidades más informadas, participativas y responsables.

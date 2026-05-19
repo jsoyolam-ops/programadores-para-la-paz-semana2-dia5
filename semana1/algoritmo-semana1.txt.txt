@@ -1,0 +1,9 @@
+Pregunta 5 — Actividad práctica de algoritmia
+Escribe un algoritmo de mínimo 6 pasos para explicar:
+1.	Buscar la información
+2.	Revisar la fuente
+3.	Confirmar la noticia en otras fuentes confiables
+4.	Verificar la fecha de publicación
+5.	Analizar si la información es verdadera y clara
+6.	Compartir la información de manera responsable
+
